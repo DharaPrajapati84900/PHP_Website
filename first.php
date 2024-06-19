@@ -73,6 +73,8 @@
         <a class="nav-link" href="photo_editor.php">PHOTO EDITOR <span class="sr-only"></span></a>
       </li>
       
+
+      
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">MORE TOOLS
           
